@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBookWebApi", "PhoneBookWebApi\PhoneBookWebApi.csproj", "{9153FAE9-E50D-4495-A729-BA72059C16D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9153FAE9-E50D-4495-A729-BA72059C16D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9153FAE9-E50D-4495-A729-BA72059C16D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9153FAE9-E50D-4495-A729-BA72059C16D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9153FAE9-E50D-4495-A729-BA72059C16D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B64C95F-EB16-49A9-95A4-DA657B2CE18B}
+	EndGlobalSection
+EndGlobal
